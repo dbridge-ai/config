@@ -1,0 +1,4 @@
+# 私钥绝不能入库
+signing-key.pem
+*.pem
+*.key

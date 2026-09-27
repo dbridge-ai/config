@@ -1,0 +1,50 @@
+{
+  "version": 2,
+  "published_at": "2026-09-27T13:02:38Z",
+  "config_sources": [
+    {
+      "id": "config-github",
+      "url": "https://raw.githubusercontent.com/dbridge-ai/config/main",
+      "platform": "github",
+      "priority": 10,
+      "role": "config"
+    },
+    {
+      "id": "config-gitee",
+      "url": "https://gitee.com/dbridge-ai/config/raw/main",
+      "platform": "gitee",
+      "priority": 20,
+      "role": "config"
+    },
+    {
+      "id": "config-gitcode",
+      "url": "https://gitcode.com/dbridge-ai/config/raw/main",
+      "platform": "gitcode",
+      "priority": 30,
+      "role": "config"
+    }
+  ],
+  "release_sources": [
+    {
+      "id": "release-github",
+      "url": "https://github.com/dbridge-ai/dbridge/releases/download",
+      "platform": "github",
+      "priority": 10,
+      "role": "release"
+    },
+    {
+      "id": "release-gitee",
+      "url": "https://gitee.com/dbridge-ai/dbridge/releases/download",
+      "platform": "gitee",
+      "priority": 20,
+      "role": "release"
+    },
+    {
+      "id": "release-gitcode",
+      "url": "https://gitcode.com/dbridge-ai/dbridge/releases/download",
+      "platform": "gitcode",
+      "priority": 30,
+      "role": "release"
+    }
+  ]
+}

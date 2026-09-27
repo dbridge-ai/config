@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "key_id": "17a17df7",
+      "public_key": "HLafOrbgee2dsxGAMnLMDoaWn1FU+mC7Ths5KwrIl/o=",
+      "algorithm": "ed25519",
+      "created_at": "2026-09-27T13:02:38Z",
+      "status": "active"
+    }
+  ],
+  "published_at": "2026-09-27T13:02:38Z"
+}
