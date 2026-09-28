@@ -1,0 +1,18 @@
+{
+  "version": "0.0.0",
+  "server_version": "0.0.0",
+  "schema_version": 1,
+  "min_schema_version": 1,
+  "key_id": "",
+  "release_notes": "Initial release placeholder",
+  "published_at": "2026-09-28T00:00:00Z",
+  "channel": "stable",
+  "platforms": {},
+  "migrations": [],
+  "config_sources": {
+    "github": "https://raw.githubusercontent.com/dbridge-ai/config/main",
+    "gitee": "https://gitee.com/dbridge-ai/config/raw/main",
+    "gitcode": "https://gitcode.com/dbridge-ai/config/raw/main"
+  },
+  "monotonic_counter": 1
+}
