@@ -1,5 +1,5 @@
 {
-  "version": "0.0.21",
+  "version": "0.0.20",
   "server_version": "1.0.0",
   "schema_version": 1,
   "min_schema_version": 0,
@@ -14,9 +14,14 @@
   },
   "platforms": {
     "linux-amd64": {
-      "url": "https://github.com/dbridge-ai/dbridge/releases/download/stable/dummy.tar.gz",
-      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-      "size": 1000
+      "url": "https://github.com/dbridge-ai/dbridge/releases/download/desktop-v0.0.20/dbridge-desktop_0.0.20_linux-amd64.tar.gz",
+      "sha256": "sha256:482a15aa2231b534418cecaf84862e67748b55855b9394e806f4b4b6bcef061c",
+      "size": 58923404
+    },
+    "linux-arm64": {
+      "url": "https://github.com/dbridge-ai/dbridge/releases/download/desktop-v0.0.20/dbridge-desktop_0.0.20_linux-arm64.tar.gz",
+      "sha256": "sha256:89de47a2d7c69f0a6ff31cb7dac2cb83d3b78ceae106d880d622c3b9ee0ca83f",
+      "size": 56016279
     },
     "darwin-amd64": {
       "url": "https://github.com/dbridge-ai/dbridge/releases/download/stable/dummy.tar.gz",
@@ -29,9 +34,14 @@
       "size": 1000
     },
     "windows-amd64": {
-      "url": "https://github.com/dbridge-ai/dbridge/releases/download/stable/dummy.zip",
-      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-      "size": 1000
+      "url": "https://github.com/dbridge-ai/dbridge/releases/download/desktop-v0.0.20/DBridge-Setup-0.0.20-amd64.exe",
+      "sha256": "sha256:86eb80d68bc0b10a73716cd42e7d9b3a333218df56860e9083cbe592f2198fee",
+      "size": 56770924
+    },
+    "windows-arm64": {
+      "url": "https://github.com/dbridge-ai/dbridge/releases/download/desktop-v0.0.20/DBridge-Setup-0.0.20-arm64.exe",
+      "sha256": "sha256:2e524f6d84bd7f9bbb0d8953f52186db702bbfdf4634ccf2369874c3769c907b",
+      "size": 53333226
     }
   },
   "migrations": [],
