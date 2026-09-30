@@ -4,15 +4,16 @@
   "schema_version": 1,
   "min_schema_version": 0,
   "key_id": "321032fd",
+  "commit_id": "fc16d25cdb3b3589752493d1c36dc7a50738590b",
   "release_notes": "",
   "published_at": "2026-09-29T15:32:41Z",
   "channel": "stable",
   "platforms": {
     "linux-amd64": {
       "url": "https://github.com/dbridge-ai/dbridge/releases/download/desktop-v0.0.26/dbridge-desktop_0.0.26_linux-amd64.tar.gz",
-      "sha256": "5e1f817145b81b2df4caacaea479f9137213d8eafc78f1e4da81d7022323809d",
-      "size": 59345576,
-      "signature": "6lGh+GKg2cNstS5bHtnP6zy71BR4F6d+hm2QZXLZ8AePktCLK6HZSYj9V+mthB6CJ0ih99sR8Lf0enDPDT7aCw==",
+      "sha256": "7e942845a623ee0a52722220747671117d2d77c93a4d77868048e4dfbd554c18",
+      "size": 59345590,
+      "signature": "au0nMfKAlkNhM6wiRPT+Nb2s0NrnOiPzDe4jbserZYt4A8RzIE3qc15iLO09tUQKLa2njpgKMS+x4/QrubNFDA==",
       "mirror_urls": [
         "https://gitee.com/dbridge-ai/dbridge/releases/download/desktop-v0.0.26/dbridge-desktop_0.0.26_linux-amd64.tar.gz",
         "https://gitcode.com/dbridge-ai/dbridge/releases/download/desktop-v0.0.26/dbridge-desktop_0.0.26_linux-amd64.tar.gz"
