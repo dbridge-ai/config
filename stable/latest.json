@@ -11,7 +11,7 @@
     "linux-amd64": {
       "url": "https://github.com/dbridge-ai/dbridge/releases/download/desktop-v0.0.26/dbridge-desktop_0.0.26_linux-amd64.tar.gz",
       "sha256": "d5dce2b07996e22710effb27cb979ed1266e757c001d83e77cb9f79e58d63e90",
-      "size": 58948599,
+      "size": 59339843,
       "signature": "EIxtL6514el2RflpzWrAKC5xYKlvacH0JIvs7PvEbZ9TvBryjoemOtJlmFKOcyp74M3QoJ7Spcf8fiaF5dO6Dg==",
       "mirror_urls": [
         "https://gitee.com/dbridge-ai/dbridge/releases/download/desktop-v0.0.26/dbridge-desktop_0.0.26_linux-amd64.tar.gz",
