@@ -1,6 +1,6 @@
 {
-  "version": "0.0.27",
-  "server_version": "0.0.27",
+  "version": "0.0.28",
+  "server_version": "0.0.28",
   "schema_version": 1,
   "min_schema_version": 0,
   "key_id": "321032fd",
@@ -10,13 +10,13 @@
   "channel": "stable",
   "platforms": {
     "linux-amd64": {
-      "url": "https://github.com/dbridge-ai/dbridge/releases/download/desktop-v0.0.27/dbridge-desktop_0.0.27_linux-amd64.tar.gz",
-      "sha256": "16810f7854975d5ecca215fadd333c189e9cb4cc784b83e2b8112affc51fc24c",
-      "size": 59345318,
-      "signature": "GoY2+FjfLYUnZRyU+qryb9Pr+RrqjeqUDBjnYvhruqI9tzIjJN0Kp/4MkyYGqwH5YKwYqGGhI0uHV5MB10z1Dg==",
+      "url": "https://github.com/dbridge-ai/dbridge/releases/download/desktop-v0.0.28/dbridge-desktop_0.0.28_linux-amd64.tar.gz",
+      "sha256": "e10a9c8b274fe598bed91eda9171851db57cdb8de123f1ff4e74b68f6301e354",
+      "size": 59347157,
+      "signature": "KNAbe//HSTAz7z9tI9eaOB1586dwESaBL4BGQBr9fnWm7vqKqE3VMTG3/wtDkoUUtxSIsxfEbTmM3E/8/0zgDA==",
       "mirror_urls": [
-        "https://gitee.com/dbridge-ai/dbridge/releases/download/desktop-v0.0.27/dbridge-desktop_0.0.27_linux-amd64.tar.gz",
-        "https://gitcode.com/dbridge-ai/dbridge/releases/download/desktop-v0.0.27/dbridge-desktop_0.0.27_linux-amd64.tar.gz"
+        "https://gitee.com/dbridge-ai/dbridge/releases/download/desktop-v0.0.28/dbridge-desktop_0.0.28_linux-amd64.tar.gz",
+        "https://gitcode.com/dbridge-ai/dbridge/releases/download/desktop-v0.0.28/dbridge-desktop_0.0.28_linux-amd64.tar.gz"
       ]
     }
   },
