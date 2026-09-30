@@ -10,9 +10,9 @@
   "platforms": {
     "linux-amd64": {
       "url": "https://github.com/dbridge-ai/dbridge/releases/download/desktop-v0.0.26/dbridge-desktop_0.0.26_linux-amd64.tar.gz",
-      "sha256": "7b1b6f596a2c43867636da44691fa28464aa899770c8ed4d1c5cfd9f875e031f",
-      "size": 59341720,
-      "signature": "EIxtL6514el2RflpzWrAKC5xYKlvacH0JIvs7PvEbZ9TvBryjoemOtJlmFKOcyp74M3QoJ7Spcf8fiaF5dO6Dg==",
+      "sha256": "5e1f817145b81b2df4caacaea479f9137213d8eafc78f1e4da81d7022323809d",
+      "size": 59345576,
+      "signature": "6lGh+GKg2cNstS5bHtnP6zy71BR4F6d+hm2QZXLZ8AePktCLK6HZSYj9V+mthB6CJ0ih99sR8Lf0enDPDT7aCw==",
       "mirror_urls": [
         "https://gitee.com/dbridge-ai/dbridge/releases/download/desktop-v0.0.26/dbridge-desktop_0.0.26_linux-amd64.tar.gz",
         "https://gitcode.com/dbridge-ai/dbridge/releases/download/desktop-v0.0.26/dbridge-desktop_0.0.26_linux-amd64.tar.gz"
@@ -21,8 +21,8 @@
   },
   "migrations": [],
   "config_sources": {
-    "github": "https://raw.githubusercontent.com/dbridge-ai/config/main/stable/",
+    "gitcode": "https://gitcode.com/dbridge-ai/config/raw/main/stable/",
     "gitee": "https://gitee.com/dbridge-ai/config/raw/main/stable/",
-    "gitcode": "https://gitcode.com/dbridge-ai/config/raw/main/stable/"
+    "github": "https://raw.githubusercontent.com/dbridge-ai/config/main/stable/"
   }
 }
