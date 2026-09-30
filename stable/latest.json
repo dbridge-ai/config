@@ -1,51 +1,21 @@
 {
-  "version": "0.0.21",
-  "server_version": "0.0.21",
+  "version": "0.0.22",
+  "server_version": "0.0.22",
   "schema_version": 1,
   "min_schema_version": 0,
   "key_id": "321032fd",
   "release_notes": "",
-  "published_at": "2026-09-29T04:20:48Z",
+  "published_at": "2026-09-29T15:32:41Z",
   "channel": "stable",
   "platforms": {
     "linux-amd64": {
-      "url": "https://github.com/dbridge-ai/dbridge/releases/download/desktop-v0.0.21/dbridge-desktop_0.0.21_linux-amd64.tar.gz",
-      "sha256": "a94cf4e81c792c644f85e315301607a3e8efc638d7a04db201b740422c6e1184",
-      "size": 58902035,
-      "signature": "Poz+L7w8bVepLl7XcKi05AoAp6in9Qh+KtibQV9HMASf0+9ESe6eWs3QUC1qN6auCSFtr2kD9nKKL4AjNQKyBA==",
+      "url": "https://github.com/dbridge-ai/dbridge/releases/download/desktop-v0.0.26/dbridge-desktop_0.0.22_linux-amd64.tar.gz",
+      "sha256": "d5dce2b07996e22710effb27cb979ed1266e757c001d83e77cb9f79e58d63e90",
+      "size": 58948599,
+      "signature": "EIxtL6514el2RflpzWrAKC5xYKlvacH0JIvs7PvEbZ9TvBryjoemOtJlmFKOcyp74M3QoJ7Spcf8fiaF5dO6Dg==",
       "mirror_urls": [
-        "https://gitee.com/dbridge-ai/dbridge/releases/download/desktop-v0.0.21/dbridge-desktop_0.0.21_linux-amd64.tar.gz",
-        "https://gitcode.com/dbridge-ai/dbridge/releases/download/desktop-v0.0.21/dbridge-desktop_0.0.21_linux-amd64.tar.gz"
-      ]
-    },
-    "linux-arm64": {
-      "url": "https://github.com/dbridge-ai/dbridge/releases/download/desktop-v0.0.21/dbridge-desktop_0.0.21_linux-arm64.tar.gz",
-      "sha256": "c563f6d31fa8f9b84e1560c5d8fa1a0773e3432585519d585d1740ceaa12bfda",
-      "size": 55995910,
-      "signature": "AaIrvLTyyOG9iSiPwvgvQqjxh8Wn31jWRKyvRAYOwlw54fBsEwFOKI2P2t6TU10WZ2wwsyLVriaebI/3+nanDQ==",
-      "mirror_urls": [
-        "https://gitee.com/dbridge-ai/dbridge/releases/download/desktop-v0.0.21/dbridge-desktop_0.0.21_linux-arm64.tar.gz",
-        "https://gitcode.com/dbridge-ai/dbridge/releases/download/desktop-v0.0.21/dbridge-desktop_0.0.21_linux-arm64.tar.gz"
-      ]
-    },
-    "windows-amd64": {
-      "url": "https://github.com/dbridge-ai/dbridge/releases/download/desktop-v0.0.21/dbridge-desktop_0.0.21_windows-amd64.zip",
-      "sha256": "ffd1467347a57490f426243ba3e959ff8512f8eb64f1f6b3b3abf11df530c469",
-      "size": 56877134,
-      "signature": "/f2uIhxJAxD96ohiG0XXKbw5WPPwyK8Iye4f4ZXPPj1YffuoAtS0InEnDCNeKWoWdERPWeFjpC6iWieygxWCCQ==",
-      "mirror_urls": [
-        "https://gitee.com/dbridge-ai/dbridge/releases/download/desktop-v0.0.21/dbridge-desktop_0.0.21_windows-amd64.zip",
-        "https://gitcode.com/dbridge-ai/dbridge/releases/download/desktop-v0.0.21/dbridge-desktop_0.0.21_windows-amd64.zip"
-      ]
-    },
-    "windows-arm64": {
-      "url": "https://github.com/dbridge-ai/dbridge/releases/download/desktop-v0.0.21/dbridge-desktop_0.0.21_windows-arm64.zip",
-      "sha256": "a9d2a4a23bb24ade3784e73a7363a9c57c18a9f7054f79e6bbc7d6efa53f273c",
-      "size": 53388453,
-      "signature": "+ce0mUFOszG/rM03dHN7LpVKzIJ7CzT+WhaHt3MhibZnqQN6JaQGPopPe7G2tt2e0377j7jGw4Z9SU7E5ebsBA==",
-      "mirror_urls": [
-        "https://gitee.com/dbridge-ai/dbridge/releases/download/desktop-v0.0.21/dbridge-desktop_0.0.21_windows-arm64.zip",
-        "https://gitcode.com/dbridge-ai/dbridge/releases/download/desktop-v0.0.21/dbridge-desktop_0.0.21_windows-arm64.zip"
+        "https://gitee.com/dbridge-ai/dbridge/releases/download/desktop-v0.0.26/dbridge-desktop_0.0.22_linux-amd64.tar.gz",
+        "https://gitcode.com/dbridge-ai/dbridge/releases/download/desktop-v0.0.26/dbridge-desktop_0.0.22_linux-amd64.tar.gz"
       ]
     }
   },
