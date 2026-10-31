@@ -1,4 +1,4 @@
-aa6021a4214c0889ee32b8c827d1ffa72948f23d4ef118b3977d23d331e889f4  dbridge-desktop_0.1.5_linux-amd64.tar.gz
-de458a3a48c796b08fe07c8d0a2effa5a7043ac870c6a83416652f03d7bc33e5  dbridge-desktop_0.1.5_linux-arm64.tar.gz
-77a13c0e9a0a854e155ae70b5be141d772342106f70db959c1922c9f6914a2a9  dbridge-desktop_0.1.5_windows-amd64.zip
-bc6f968bd5f861af954dcbf9d11808ea0d722d6f9b6b8aff5c15d4d38ed19c91  dbridge-desktop_0.1.5_windows-arm64.zip
+154c5ad7e2ec744e12d63d8809ba33717a2c62efec82790d8182e445717e0af2  dbridge-desktop_0.1.0_linux-amd64.tar.gz
+8151bf2c223f4ccfe0cd2eee0aa526c5dd2bca1be4425f38c0f2fc708943631c  dbridge-desktop_0.1.0_linux-arm64.tar.gz
+188c515110812f4cd0067c3c8fd7dd1aa3d0ec62e13fd5bda7543399985e6045  dbridge-desktop_0.1.0_windows-amd64.zip
+84769b9ada477af25764cb03a63824120e5e279a610dccddf3f180a91505133c  dbridge-desktop_0.1.0_windows-arm64.zip
